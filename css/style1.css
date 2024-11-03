@@ -1,0 +1,53 @@
+body {
+    background-color: #f8f9fa;
+  }
+  
+  .logo {
+    font-family: 'Arial', sans-serif;
+    font-size: 24px;
+    text-align: center;
+  }
+  
+  .nav-link {
+    font-size: 18px;
+  }
+  
+  .post {
+    background-color: #ffffff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+  }
+  
+  .post-header img {
+    border: 2px solid #dee2e6;
+  }
+  
+  .post-title h5 {
+    font-weight: bold;
+  }
+  
+  .post-description p {
+    font-size: 16px;
+  }
+  
+  .post-actions button {
+    width: 100px;
+  }
+  
+  .user-profile {
+    text-align: center;
+  }
+  
+  .user-profile h4 {
+    margin-top: 10px;
+  }
+  
+  .media img {
+    border: 2px solid #dee2e6;
+  }
+  
+  .media-body h6 {
+    font-weight: normal;
+  }
+  
